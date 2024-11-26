@@ -9,7 +9,7 @@ h11==0.14.0
 httpcore==0.17.3
 httpx==0.24.1
 hubspot-api-client==8.1.0
-idna==3.4
+idna==3.7
 packaging==24.0
 pprintpp==0.4.0
 python-dateutil==2.8.2
